@@ -1,12 +1,21 @@
-# VSRV (MIREA course)
-"Real-time computing systems"
-# Выполненные задания:
+# VSRV (MIREA Course)
+**"Real-Time Computing Systems"**
 
-- [Практическая работа 3](https://github.com/mag7231/VSRV/tree/main/PR3)
-  - **Файлы:**
-    - Program.c
+## Выполненные задания
 
-- [Практическая работа 4](https://github.com/mag7231/VSRV/tree/main/PR4)
-  - **Файлы:**
-    - 
+### [Практическая работа 3](https://github.com/mag7231/VSRV/tree/main/PR3)
+- **Файлы:**
+  - `Program.c`
 
+---
+
+### [Практическая работа 4](https://github.com/mag7231/VSRV/tree/main/PR4)
+- **Файлы:**
+  - `example1.c` - Работа с разреженными файлами и временными файлами.
+  - `example2.c` - Работа с файловыми дескрипторами ошибок.
+  - `example3.c` - Использование системных вызовов для дублирования ФД и перенаправления вывода с терминала в файл.
+  - `example4.c` - Перенаправление потоков ввода с использованием дублирования ФД.
+
+---
+
+### [Практическая работа 4](https://github.com/mag7231/VSRV/tree/main/PR5)
